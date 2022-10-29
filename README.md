@@ -11,3 +11,4 @@ imx分支：
 增加板子：
 
 1. 讯为iMX6ULL TERMINATOR_V1.1
+2. 讯为i.MX8MM
